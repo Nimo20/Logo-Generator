@@ -1,4 +1,11 @@
-<svg width="200" height="200">
-    <circle cx="122" cy="100" r="70" fill="green" />
-    <text fill="white" font-size="45" x="90" y="110" >NMO</text>
+<svg version="1.1"
+    width="300" height="200"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <rect width="100%" height="100%" fill="red" />
+
+    <circle cx="150" cy="100" r="80" fill="green" />
+
+    <text x="150" y="125" font-size="60" text-anchor="middle" fill="white">SVG</text>
+
 </svg>

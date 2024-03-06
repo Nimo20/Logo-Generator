@@ -52,7 +52,7 @@ function init() {
                     <text fill="${fontColor}" font-size="30" x="29" y="75" >${textChoice}</text>
                     </svg>`
             } else {
-                svgMarkup = `<svg width="200" height="200">
+                svgMarkup = `<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
                         ${shape.render()}
                         <text fill="${fontColor}" font-size="45" x="90" y="110" >${textChoice}</text>
                         </svg>`
